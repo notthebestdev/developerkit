@@ -11,7 +11,7 @@ DeveloperKit is an shortcut that brings many tools into one shortcut without hav
 - [About the project](#-about-the-project)
  - [Functions](#-functions)
 - [Documentation](#-documentation)
-  - [Options](#-options)
+  - [Options](#%EF%B8%8F-options)
 - [Download](#-download)
 
 ## 📖 About the project
