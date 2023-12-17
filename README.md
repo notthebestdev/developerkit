@@ -38,3 +38,19 @@ DeveloperKit is a quick way to use many tools together without spending a lot of
 To use DeveloperKit: it's easy to understand!
 
 First, you need to have a dictionary, it's the main entry for DeveloperKit.
+<img src="/Screenshots/1.png" alt="" width="500" height="auto">
+
+Then, in the screenshot, we need to put a specific request.
+> [!WARNING]
+While doing this step, make sure to put a correct request or else things may break!
+
+For this tutorial, we are gonna use the **UserLanguage** feature. 
+This allows us to retrieve the user's language so that we can translate the shortcut's text into the user's language.
+
+<img src="https://github.com/notthebestdev/developerkit/assets/129324066/e3946664-619f-4bbd-9f8c-a4d8e89dccfb" alt="" width="500" height="auto">
+
+If you do everything correctly, you should see a result with the user's language (example: fr-FR)
+
+## 🎛️ Options
+
+You can add options to requests because they are needed.
