@@ -51,6 +51,6 @@ This allows us to retrieve the user's language so that we can translate the shor
 
 If you do everything correctly, you should see a result with the user's language (example: fr-FR)
 
-## 🎛️ Options
+# 🎛️ Options
 
 You can add options to requests because they are needed.
