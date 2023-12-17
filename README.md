@@ -10,7 +10,7 @@ DeveloperKit is an shortcut that brings many tools into one shortcut without hav
 
 - [About the project](#-about-the-project)
  - [Functions](#-functions)
-- [Requests](#-requests)
+- [Documentation](#-documentation)
   - [Options](#-options)
 - [Download](#-download)
 
@@ -20,26 +20,21 @@ DeveloperKit is a quick way to use many tools together without spending a lot of
 
 ## 🪄 Functions
 
-- **Version**: Gets the version of DeveloperKit. Can be useful if the user doesn’t have the latest features.
+| Feature              | Description                                              | Options                      |
+|----------------------|----------------------------------------------------------|------------------------------|
+| Version              | Retrieves DeveloperKit version.                          |/                              |
+| Ping                 | Tests WiFi milliseconds using "a-Shell mini" app.        | IP (router IP)               |
+| ConnectedToWifi?     | Checks if the user is connected to a WiFi network.        |/                              |
+| ConnectedToInternet? | Verifies if the user is connected to the internet.        |/                              |
+| Location             | Quickly gets the user's location.                        |/                              |
+| RunJavaScript        | Executes JavaScript remotely on your device.             | code (JavaScript code)      |
+| Timezone             | Retrieves the user's timezone.                           |/                              |
+| CensorText           | Censors insults from text.                               | text (text to censor)        |
+| UserLanguage         | Retrieves the user's language.                            |/                              |
+| Check For Updates    | Utilizes RoutineHub’s API to check for updates.          | ID (RoutineHub’s Shortcut ID), Version (RoutineHub’s Shortcut Version) |
 
-- **Ping**: Test the milliseconds of your WiFi. Needs an app called "a-Shell mini".
-Options: IP (the router ip)
+## 📕 Documentation
 
-- **ConnectedToWifi?**: Is the user connected to an WiFi network.
+To use DeveloperKit: it's easy to understand!
 
-- **ConnectedToInternet?**: Is the user connected to the internet.
-
-- **Location**: Gets the location of the user more faster.
-
-- **RunJavaScript**: Runs JavaScript remotely on your device.
-Options: code (the JavaScript code)
-
-- **Timezone**: Gets the user’s timezone. 
-
-- **CensorText**: Censor insults from an text.
-Options: text (the text to censor).
-
-- **UserLanguage**: Gets the user’s language.
-
-- **Check For Updates**: Checks for updates using RoutineHub’s API.
-Options: ID (RoutineHub’s Shortcut ID), Version (RoutineHub’s Shortcut Version)
+First, you need to have a dictionary, it's the main entry for DeveloperKit.
