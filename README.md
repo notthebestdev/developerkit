@@ -54,3 +54,5 @@ If you do everything correctly, you should see a result with the user's language
 # 🎛️ Options
 
 You can add options to requests because they are needed.
+
+<a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://app.copyrighted.com/work/6F7WlGgDjwNPkhbT"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/04_2_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/04_2.png"></a>
