@@ -61,4 +61,24 @@ Let's do for example the function: **RunJavascript**.
 
 *RunJavascript is a feature that executes a provided JavaScript code via the option "code".*
 
+<img src="https://github.com/notthebestdev/developerkit/assets/129324066/d34750e6-83f8-400c-b97c-e031d1ccac08" alt="" width="500" height="auto">
+
+This code:
+```
+<html>
+  <head>
+    <script>
+    	var random = Math.floor(Math.random() * 100) + 1;
+      document.write(random);
+    </script>
+  </head>
+  <body></body>
+</html>
+```
+generates a **random number** from 0 to 100.
+
+## 📲 Download
+
+You can [click here](about:blank) to download.
+
 <a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://app.copyrighted.com/work/6F7WlGgDjwNPkhbT"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/04_2_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/04_2.png"></a>
