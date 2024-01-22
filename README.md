@@ -27,7 +27,7 @@ DeveloperKit is a quick way to use many tools together without spending a lot of
 | ConnectedToWifi?    | Indicates whether the user is currently connected to Wi-Fi.        |                            |
 | ConnectedToInternet?| Indicates whether the user is currently connected to the internet.  |                            |
 | Location            | Quickly and simply retrieves the user’s current location.          |                            |
-| RunJavascript       | Executes a provided JavaScript code.                              | code                       |
+| RunJavaScript       | Executes a provided JavaScript code.                              | code                       |
 | Timezone            | Retrieves the timezone of the user.                                |                            |
 | CensorText          | Censors the provided text.                                        | text                       |
 | UserLanguage        | Retrieves the preferred language of the user.                      |                            |
