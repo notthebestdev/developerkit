@@ -20,18 +20,20 @@ DeveloperKit is a quick way to use many tools together without spending a lot of
 
 ## 🪄 Functions
 
-| Feature              | Description                                              | Options                      |
-|----------------------|----------------------------------------------------------|------------------------------|
-| Version              | Retrieves DeveloperKit version.                          |/                              |
-| Ping                 | Tests WiFi milliseconds using "a-Shell mini" app.        | IP (router IP)               |
-| ConnectedToWifi?     | Checks if the user is connected to a WiFi network.        |/                              |
-| ConnectedToInternet? | Verifies if the user is connected to the internet.        |/                              |
-| Location             | Quickly gets the user's location.                        |/                              |
-| RunJavaScript        | Executes JavaScript remotely on your device.             | code (JavaScript code)      |
-| Timezone             | Retrieves the user's timezone.                           |/                              |
-| CensorText           | Censors insults from text.                               | text (text to censor)        |
-| UserLanguage         | Retrieves the user's language.                            |/                              |
-| Check For Updates    | Utilizes RoutineHub’s API to check for updates.          | ID (RoutineHub’s Shortcut ID), Version (RoutineHub’s Shortcut Version) |
+| Feature            | Description                                                       | Options                    |
+|---------------------|-------------------------------------------------------------------|----------------------------|
+| Version             | Retrieves the version of the DeveloperKit.                         |                            |
+| Ping                | Pings a specific IP and returns the response time in milliseconds. | ip                         |
+| ConnectedToWifi?    | Indicates whether the user is currently connected to Wi-Fi.        |                            |
+| ConnectedToInternet?| Indicates whether the user is currently connected to the internet.  |                            |
+| Location            | Quickly and simply retrieves the user’s current location.          |                            |
+| RunJavascript       | Executes a provided JavaScript code.                              | code                       |
+| Timezone            | Retrieves the timezone of the user.                                |                            |
+| CensorText          | Censors the provided text.                                        | text                       |
+| UserLanguage        | Retrieves the preferred language of the user.                      |                            |
+| CheckForUpdates     | Checks for updates via RoutineHub.                                 | id, version                |
+| BatteryLeft         | Displays the remaining battery percentage.                         |                            |
+| Boolean             | Returns a boolean response.                                       | response                   |
 
 ## 📕 Documentation
 
@@ -54,5 +56,9 @@ If you do everything correctly, you should see a result with the user's language
 # 🎛️ Options
 
 You can add options to requests because they are needed.
+
+Let's do for example the function: **RunJavascript**.
+
+*RunJavascript is a feature that executes a provided JavaScript code via the option "code".*
 
 <a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://app.copyrighted.com/work/6F7WlGgDjwNPkhbT"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/04_2_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/04_2.png"></a>
