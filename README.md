@@ -77,6 +77,8 @@ This code:
 ```
 generates a **random number** from 0 to 100.
 
+Example Result: 42.
+
 ## 📲 Download
 
 You can [click here](about:blank) to download.
