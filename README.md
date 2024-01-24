@@ -82,5 +82,6 @@ Example Result: 42.
 ## 📲 Download
 
 You can [click here](about:blank) to download.
+Or [click here](https://www.icloud.com/shortcuts/e1db2c2adbef4f99b1dab8e1b591726d) if the link below doesn't work.
 
 <a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://app.copyrighted.com/work/6F7WlGgDjwNPkhbT"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/04_2_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/04_2.png"></a>
