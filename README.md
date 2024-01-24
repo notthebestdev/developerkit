@@ -44,6 +44,8 @@ To use DeveloperKit: it's easy to understand!
 First, you need to have a dictionary, it's the main entry for DeveloperKit.
 <img src="/Screenshots/1.png" alt="" width="500" height="auto">
 
+You will always use this for DeveloperKit, no more things are required after this.
+
 Then, in the screenshot, we need to put a specific request.
 > [!WARNING]
 While doing this step, make sure to put a correct request or else things may break!
