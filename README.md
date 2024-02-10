@@ -22,21 +22,22 @@ Picture this: a friend that gathers all your favorite tools in one place. With *
 
 ## 🪄 Functions
 
-| Feature            | Description                                                       | Options                    |
-|--------------------|-------------------------------------------------------------------|----------------------------|
-| Version            | Retrieves the version of the DeveloperKit.                        |                            |
-| Ping               | Pings a specific IP and returns the response time in milliseconds.| ip                         |
-| ConnectedToWifi?   | Indicates whether the user is currently connected to Wi-Fi.       |                            |
-| ConnectedToInternet?| Indicates whether the user is currently connected to the internet.|                            |
-| Location           | Quickly and simply retrieves the user’s current location.         |                            |
-| RunJavaScript      | Executes a provided JavaScript code.                              | code                       |
-| Timezone           | Retrieves the timezone of the user.                               |                            |
-| CensorText         | Censors the provided text.                                        | text                       |
-| UserLanguage       | Retrieves the preferred language of the user.                     |                            |
-| CheckForUpdates    | Checks for updates via RoutineHub.                                | id, version                |
-| BatteryLeft        | Displays the remaining battery percentage.                        |                            |
-| Boolean            | Returns a boolean response.                                       | response                   |
-| GetUserName        | Retrieves the username of the user.                               |                            |
+| Feature      | Description                                                | Options |
+|--------------|------------------------------------------------------------|---------|
+| Version      | Retrieves the version of the DeveloperKit.                 |         |
+| Ping         | Pings a specific IP and returns the response time in milliseconds.| ip      |
+| ConnectedToWifi? | Indicates whether the user is currently connected to Wi-Fi. |         |
+| ConnectedToInternet?| Indicates whether the user is currently connected to the internet.|         |
+| Location     | Quickly and simply retrieves the user’s current location.  |         |
+| RunJavaScript | Executes a provided JavaScript code.                      | code    |
+| Timezone     | Retrieves the timezone of the user.                        |         |
+| CensorText   | Censors the provided text.                                 | text    |
+| UserLanguage| Retrieves the preferred language of the user.               |         |
+| CheckForUpdates | Checks for updates via RoutineHub.                        | id, version |
+| BatteryLeft  | Displays the remaining battery percentage.                 |         |
+| Boolean      | Returns a boolean response.                                | response|
+| GetUserName  | Retrieves the username of the user.                        |         |
+| Milliseconds | Measures time intervals in milliseconds.                  | time    |
 
 ## 📕 Documentation
 
