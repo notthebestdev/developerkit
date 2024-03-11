@@ -1,0 +1,62 @@
+{
+  "Version": {
+    "Description": "Retrieves the version of the DeveloperKit.",
+    "Options": ""
+  },
+  "Ping": {
+    "Description": "Pings a specific IP and returns the response time in milliseconds.",
+    "Options": "ip"
+  },
+  "ConnectedToWifi?": {
+    "Description": "Indicates whether the user is currently connected to Wi-Fi.",
+    "Options": ""
+  },
+  "ConnectedToInternet?": {
+    "Description": "Indicates whether the user is currently connected to the internet.",
+    "Options": ""
+  },
+  "Location": {
+    "Description": "Quickly and simply retrieves the user’s current location.",
+    "Options": ""
+  },
+  "RunJavaScript": {
+    "Description": "Executes a provided JavaScript code.",
+    "Options": "code"
+  },
+  "Timezone": {
+    "Description": "Retrieves the timezone of the user.",
+    "Options": ""
+  },
+  "CensorText": {
+    "Description": "Censors the provided text.",
+    "Options": "text"
+  },
+  "UserLanguage": {
+    "Description": "Retrieves the preferred language of the user.",
+    "Options": ""
+  },
+  "CheckForUpdates": {
+    "Description": "Checks for updates via RoutineHub.",
+    "Options": "id, version"
+  },
+  "BatteryLeft": {
+    "Description": "Displays the remaining battery percentage.",
+    "Options": ""
+  },
+  "Boolean": {
+    "Description": "Returns a boolean response.",
+    "Options": "response"
+  },
+  "GetUserName": {
+    "Description": "Retrieves the username of the user.",
+    "Options": ""
+  },
+  "Milliseconds": {
+    "Description": "Measures time intervals in milliseconds.",
+    "Options": "time"
+  },
+  "Draw": {
+    "Description": "Allows the user to draw on a blank page.",
+    "Options": ""
+  }
+}
